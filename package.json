@@ -1,0 +1,16 @@
+{
+   "name": "perlin-noise",
+   "version": "1.1.0",
+   "description": "Rojo project that facilitates a demonstration of Perlin noise in Roblox.",
+   "author": "John Gentry <johnjgentryii@gmail.com>",
+   "license": "MIT",
+   "scripts": {
+      "build": "node ./build.js"
+   },
+   "devDependencies": {
+      "cpx": "1.5.0",
+      "luamin": "1.0.4",
+      "mkdirp": "1.0.4",
+      "rimraf": "3.0.2"
+   }
+}
